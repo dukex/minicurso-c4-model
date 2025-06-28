@@ -25,3 +25,7 @@ Mas não paramos por aí! Vamos além dos desenhos manuais e introduzimos o **St
 - Qualquer profissional de tecnologia que deseje melhorar a clareza, a colaboração e a manutenção da documentação arquitetural em seus projetos.
 
 **Transforme a complexidade em clareza!**
+
+## Licença
+
+Este projeto está licenciado sob a [Creative Commons Attribution 4.0 International License](LICENSE). Você é livre para compartilhar e adaptar o material, desde que forneça a devida atribuição.
